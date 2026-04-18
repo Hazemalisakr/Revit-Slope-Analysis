@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Slope Analysis</Name>
+    <Assembly>SlopeAnalysis.dll</Assembly>
+    <AddInId>B7A5E28F-4C3D-4A91-8E6B-2F1D9C5A7B3E</AddInId>
+    <FullClassName>SlopeAnalysis.App</FullClassName>
+    <VendorId>KAITECH</VendorId>
+    <VendorDescription>KAITECH Building Design</VendorDescription>
+  </AddIn>
+</RevitAddIns>
